@@ -13,7 +13,7 @@ const fizzBuzz = (num) => {
         
 
     }
-    return
+    return "Ta Daa"
 }
 
 
