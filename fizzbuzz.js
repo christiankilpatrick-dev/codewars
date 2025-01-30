@@ -16,5 +16,3 @@ const fizzBuzz = (num) => {
     return "Ta Daa"
 }
 
-
-console.log(fizzBuzz(25))
